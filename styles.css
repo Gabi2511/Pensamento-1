@@ -15,4 +15,5 @@ section{
     backgrond: rgb(8, 156, 241);
     padding-bottom:80px;
     padding-top:80px;
+    display: flex;
 }
