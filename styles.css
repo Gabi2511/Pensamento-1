@@ -1,19 +1,24 @@
-body{
+body {
     color: rgb(15, 15, 15);
     background: rgb(224, 29, 29);
     margin: 0px;
 }
 
-header{
+header {
     border-bottom: solid 4px rgb(255, 255, 255);
     padding: 20px;
     font-size: 40px;
     color:rgb(0, 0, 0);
 }
 
-section{
+section {
     backgrond: rgb(63, 116, 220);
     padding-bottom:80px;
     padding-top:80px;
     display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-right: 20px
 }
